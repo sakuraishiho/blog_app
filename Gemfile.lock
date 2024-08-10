@@ -306,7 +306,7 @@ DEPENDENCIES
   spring
   turbolinks (~> 5)
   tzinfo-data
-  web-console (>= 4.1.0)
+  web-console (>= 4.0)
   webdrivers
   webpacker (~> 5.0)
 
